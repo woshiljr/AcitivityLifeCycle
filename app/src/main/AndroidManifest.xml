@@ -19,7 +19,8 @@
             android:name=".ActivitySecond"
             android:label="second"
             android:parentActivityName=".MainActivity" />
-        <activity android:name=".ThirdActivity"></activity>
+        <activity android:name=".ThirdActivity" />
+        <activity android:name=".Main2Activity"></activity>
     </application>
 
 </manifest>

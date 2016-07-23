@@ -17,8 +17,6 @@ public class ActivitySecond extends AppCompatActivity {
     private TextView mTextView;
     private Button mSendBackButton;
     private EditText mNameEditText;
-
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
